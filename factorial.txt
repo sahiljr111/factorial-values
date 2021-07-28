@@ -13,3 +13,7 @@ public class factorial {
         System.out.println(factorial(5));
     }
 }
+
+
+
+output : 120
